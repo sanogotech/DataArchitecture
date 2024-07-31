@@ -1,6 +1,5 @@
 
 
-
 ## **Conception d'une Architecture de Données**
 
 ### **Introduction**
