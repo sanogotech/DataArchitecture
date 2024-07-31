@@ -8,11 +8,14 @@ Dans le monde numérique d'aujourd'hui, les données jouent un rôle crucial dan
 
 Ce voyage implique une compréhension des besoins en données de l'entreprise, une collecte rigoureuse des données, leur intégration, gouvernance et consommation, le tout soutenu par des outils et bonnes pratiques spécifiques. La conception d'une architecture de données n'est pas une tâche unique, mais plutôt un processus évolutif qui doit être aligné sur les objectifs à court et long terme de l'organisation.
 
+![Data Architecture](https://github.com/sanogotech/DataArchitecture/blob/main/images/DataArchitectureBlock.png)
+
 ### **Enjeux et Objectifs**
 
 - **Enjeux :** Les organisations modernes font face à des volumes croissants de données provenant de sources variées. L'absence d'une architecture de données robuste peut entraîner une inefficacité opérationnelle, une mauvaise prise de décision et une non-conformité aux réglementations en matière de protection des données.
 
 - **Objectifs :** L'objectif d'une architecture de données est de fournir une structure claire pour la collecte, l'intégration, le stockage et la consommation des données, tout en assurant leur gouvernance et leur sécurité. Cela permet aux entreprises de devenir plus agiles, compétitives et axées sur les données.
+
 
 ### **Stratégie et Bonnes Pratiques**
 
